@@ -1,0 +1,61 @@
+[
+  {
+    "task": "Правилната подредба на числата 6, 2√3, √100 във възходящ ред е:",
+    "image": null,
+    "answers": ["2√3, 6, √100"],
+    "possible_answers": [
+      "√100, 2√3, 6",
+      "6, 2√3, √100",
+      "√100, 6, 2√3",
+      "2√3, 6, √100"
+    ],
+    "open_answer_letters": null,
+    "type": "closed",
+    "nvoID": 1
+  },
+  {
+    "task": "Ако x1 и x2 са корените на уравнението 4x² - 7x + 5 = 0, то стойността на израза x1x2(x1 + x2) е:",
+    "image": null,
+    "answers": ["-35/16"],
+    "possible_answers": ["-35/16", "-16/35", "16/35", "35/16"],
+    "open_answer_letters": null,
+    "type": "closed",
+    "nvoID": 2
+  },
+  {
+    "task": "Броят на корените на уравнението (x - 2)(x² - 4x + 3)/x² - 1 = 0 е:",
+    "image": null,
+    "answers": ["2"],
+    "possible_answers": ["0", "1", "2", "3"],
+    "open_answer_letters": null,
+    "type": "closed",
+    "nvoID": 3
+  },
+  {
+    "task": "Диагоналите на трапеца ABCD (AB || CD) се пресичат в точка O. Ако AO = 8 cm, OC = 3 cm и CD = 4 cm, дължината на средната основа на трапеца е:",
+    "image": "https://cdn.discordapp.com/attachments/800423654533365790/1111662009835061338/image.png",
+    "answers": ["6 cm"],
+    "possible_answers": ["4 cm", "6 cm", "8 cm", "10 cm"],
+    "open_answer_letters": null,
+    "type": "closed",
+    "nvoID": 4
+  },
+  {
+    "task": "Разпределението на учениците, които получават стипендии в един клас, е както следва в таблицата посочена долу. Модата на данните от таблицата е:",
+    "image": "https://media.discordapp.net/attachments/800423654533365790/1111979065637871686/image.png",
+    "answers": ["30"],
+    "possible_answers": ["25", "30", "35", "50"],
+    "open_answer_letters": null,
+    "type": "closed",
+    "nvoID": 4
+  },
+  {
+    "task": "За равнобедрения ABC (AC=BC) е дадено, че AC=13 cm, AD=5 cm и CD (D⊥AB) е височина, намерете: А) периметъра на ABC; Б) лицето на ABC; В) радиуса на описаната около ABC окръжност; Г) радиуса на вписаната в ABC окръжност.",
+    "image": "https://media.discordapp.net/attachments/784392775578812456/1112113756743422023/image.png",
+    "answers": ["42", "60", "1690/15", "60/18"],
+    "possible_answers": ["35", "50", "25", "30"],
+    "open_answer_letters": ["P", "S1", "R", "r"],
+    "type": "open",
+    "nvoID": 4
+  }
+]

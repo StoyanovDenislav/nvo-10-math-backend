@@ -31,9 +31,9 @@ const killswitchModel = mongoose.model("Killswitch", killSwitchSchema);
   .catch((error) => {
     console.error("Error inserting data:", error);
     mongoose.connection.close();
-  });*/
+  });
 
-/*killswitchModel
+killswitchModel
   .insertMany([{ killswitch: false }])
   .then(() => {
     console.log("Data inserted successfully");
